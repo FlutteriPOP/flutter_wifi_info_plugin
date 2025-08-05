@@ -33,7 +33,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        minSdkVersion 21  // 21 is modern minimum; update if needed
+        minSdkVersion 23  // 21 is modern minimum; update if needed
         targetSdkVersion 34
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
